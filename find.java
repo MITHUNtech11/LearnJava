@@ -1,5 +1,5 @@
 public class find {
-     public static void main(Strings[] args){
-        n=36
-     }
+    public static void main(String[] args){
+        // int n = 36;
+    }
 }

@@ -1,3 +1,4 @@
+package Day_six;
 import java.util.*;
 
 public class rotate {
